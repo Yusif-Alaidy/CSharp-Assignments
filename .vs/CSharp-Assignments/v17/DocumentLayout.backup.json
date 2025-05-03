@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\CSharp-Assignments\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D21D7E3-0B37-4CC1-8B28-E1C651BC6070}|Assignment-02\\Assignment-02.csproj|c:\\users\\lenovo\\downloads\\csharp-assignments\\assignment-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D21D7E3-0B37-4CC1-8B28-E1C651BC6070}|Assignment-02\\Assignment-02.csproj|solutionrelative:assignment-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88D45849-C042-4E97-82B7-DA3126FCFBB7}|Assignment-01\\Assignment-01.csproj|c:\\users\\lenovo\\downloads\\csharp-assignments\\assignment-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88D45849-C042-4E97-82B7-DA3126FCFBB7}|Assignment-01\\Assignment-01.csproj|solutionrelative:assignment-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,14 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\CSharp-Assignments\\Assignment-02\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment-02\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\CSharp-Assignments\\Assignment-02\\Program.cs",
+              "RelativeToolTip": "Assignment-02\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBBwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:09:56.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\CSharp-Assignments\\Assignment-01\\Program.cs",
               "RelativeDocumentMoniker": "Assignment-01\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Downloads\\CSharp-Assignments\\Assignment-01\\Program.cs",
               "RelativeToolTip": "Assignment-01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:44:17.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T11:44:17.286Z"
             }
           ]
         }
