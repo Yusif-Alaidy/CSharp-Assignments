@@ -12,3 +12,7 @@ C:\Users\Lenovo\Downloads\CSharp-Assignments\Assignment-01\obj\Debug\net9.0\refi
 C:\Users\Lenovo\Downloads\CSharp-Assignments\Assignment-01\obj\Debug\net9.0\Assignment-01.pdb
 C:\Users\Lenovo\Downloads\CSharp-Assignments\Assignment-01\obj\Debug\net9.0\Assignment-01.genruntimeconfig.cache
 C:\Users\Lenovo\Downloads\CSharp-Assignments\Assignment-01\obj\Debug\net9.0\ref\Assignment-01.dll
+C:\Users\Lenovo\Downloads\CSharp-Assignments\Assignment-01\bin\Debug\net9.0\Colorful.Console.dll
+C:\Users\Lenovo\Downloads\CSharp-Assignments\Assignment-01\obj\Debug\net9.0\Assignment-01.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\CSharp-Assignments\Assignment-01\obj\Debug\net9.0\Assignment-01.sourcelink.json
+C:\Users\Lenovo\Downloads\CSharp-Assignments\Assignment-01\obj\Debug\net9.0\Assignme.1723E0D6.Up2Date
