@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\bin\Debug\net9.0\Assignment-05.exe
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\bin\Debug\net9.0\Assignment-05.deps.json
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\bin\Debug\net9.0\Assignment-05.runtimeconfig.json
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\bin\Debug\net9.0\Assignment-05.dll
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\bin\Debug\net9.0\Assignment-05.pdb
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\obj\Debug\net9.0\Assignment-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\obj\Debug\net9.0\Assignment-05.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\obj\Debug\net9.0\Assignment-05.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\obj\Debug\net9.0\Assignment-05.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\obj\Debug\net9.0\Assignment-05.sourcelink.json
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\obj\Debug\net9.0\Assignment-05.dll
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\obj\Debug\net9.0\refint\Assignment-05.dll
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\obj\Debug\net9.0\Assignment-05.pdb
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\obj\Debug\net9.0\Assignment-05.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Assignment-05\obj\Debug\net9.0\ref\Assignment-05.dll
