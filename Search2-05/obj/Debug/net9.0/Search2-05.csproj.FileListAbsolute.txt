@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\bin\Debug\net9.0\Search2-05.exe
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\bin\Debug\net9.0\Search2-05.deps.json
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\bin\Debug\net9.0\Search2-05.runtimeconfig.json
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\bin\Debug\net9.0\Search2-05.dll
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\bin\Debug\net9.0\Search2-05.pdb
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\obj\Debug\net9.0\Search2-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\obj\Debug\net9.0\Search2-05.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\obj\Debug\net9.0\Search2-05.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\obj\Debug\net9.0\Search2-05.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\obj\Debug\net9.0\Search2-05.sourcelink.json
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\obj\Debug\net9.0\Search2-05.dll
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\obj\Debug\net9.0\refint\Search2-05.dll
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\obj\Debug\net9.0\Search2-05.pdb
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\obj\Debug\net9.0\Search2-05.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\CSharp-Assignments\Search2-05\obj\Debug\net9.0\ref\Search2-05.dll

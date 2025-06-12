@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bn3HxTiFEvU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\CSharp-Assignments\\Search2-05\\Search2-05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
