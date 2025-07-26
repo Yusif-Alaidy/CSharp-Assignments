@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusif_j0ovw0c\\Source\\Repos\\Assignment-10-Entity Framework DML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6D3A1-67DB-4EE4-996A-67592C059D37}|Assignment-10-Entity Framework DML\\Assignment-10-Entity Framework DML.csproj|c:\\users\\yusif_j0ovw0c\\source\\repos\\assignment-10-entity framework dml\\assignment-10-entity framework dml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB6D3A1-67DB-4EE4-996A-67592C059D37}|Assignment-10-Entity Framework DML\\Assignment-10-Entity Framework DML.csproj|solutionrelative:assignment-10-entity framework dml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6D3A1-67DB-4EE4-996A-67592C059D37}|Assignment-10-Entity Framework DML\\Assignment-10-Entity Framework DML.csproj|c:\\users\\yusif_j0ovw0c\\source\\repos\\assignment-10-entity framework dml\\assignment-10-entity framework dml\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB6D3A1-67DB-4EE4-996A-67592C059D37}|Assignment-10-Entity Framework DML\\Assignment-10-Entity Framework DML.csproj|solutionrelative:assignment-10-entity framework dml\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./BikeStores/True/SqlTable/production.products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB6D3A1-67DB-4EE4-996A-67592C059D37}|Assignment-10-Entity Framework DML\\Assignment-10-Entity Framework DML.csproj|c:\\users\\yusif_j0ovw0c\\source\\repos\\assignment-10-entity framework dml\\assignment-10-entity framework dml\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB6D3A1-67DB-4EE4-996A-67592C059D37}|Assignment-10-Entity Framework DML\\Assignment-10-Entity Framework DML.csproj|solutionrelative:assignment-10-entity framework dml\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Source\\Repos\\Assignment-10-Entity Framework DML\\Assignment-10-Entity Framework DML\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Assignment-10-Entity Framework DML\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Source\\Repos\\Assignment-10-Entity Framework DML\\Assignment-10-Entity Framework DML\\Models\\Product.cs",
+              "RelativeToolTip": "Assignment-10-Entity Framework DML\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:32:24.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "production.products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./BikeStores/True/SqlTable/production.products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./BikeStores/True/SqlTable/production.products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-26T03:51:47.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Source\\Repos\\Assignment-10-Entity Framework DML\\Assignment-10-Entity Framework DML\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "Assignment-10-Entity Framework DML\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Source\\Repos\\Assignment-10-Entity Framework DML\\Assignment-10-Entity Framework DML\\Models\\Stock.cs",
+              "RelativeToolTip": "Assignment-10-Entity Framework DML\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T03:42:11.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusif_j0ovw0c\\Source\\Repos\\Assignment-10-Entity Framework DML\\Assignment-10-Entity Framework DML\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment-10-Entity Framework DML\\Program.cs",
+              "ToolTip": "C:\\Users\\yusif_j0ovw0c\\Source\\Repos\\Assignment-10-Entity Framework DML\\Assignment-10-Entity Framework DML\\Program.cs",
+              "RelativeToolTip": "Assignment-10-Entity Framework DML\\Program.cs",
+              "ViewState": "AgIAADAAAAAAzMzMzMwDwLUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:38:19.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
